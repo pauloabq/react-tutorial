@@ -1,13 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-Projeto Jogo da Velha do tutorial do site oficial do React https://reactjs.org/
+Projeto Jogo da Velha do tutorial do site oficial do React https://reactjs.org/, utilizando [Create React App](https://github.com/facebook/create-react-app)
 
 Live demo: https://pauloabq.github.io/react-tutorial/
 
 
 
-## Available Scripts7
+## Available Scripts
 
 In the project directory, you can run:
 
